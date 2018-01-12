@@ -10,6 +10,6 @@ Using a module called Axios, it sends POST, and GET requests to the server.
 
 For optimal work, the server should also be running.
 
-There are two 'pages' available for the users. The first page is the generation page, where users can generate UIDs. It is called Home, since this is viewed as the main feature of the application. The other one is My Keys, and it's were both old and new users can check their generated keys.
+There are two 'pages' available for the users. The first page is the generation page, where users can generate UIDs. It is called Home, since this is viewed as the main feature of the application. The other one is My Keys, and it's were both old and new users can check their generated keys. The navigation is done using the react-router-dom module.
 
 This is a demo for the actual application.
